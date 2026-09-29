@@ -33,7 +33,6 @@ pre-entrega6/
 ├── main.py
 ├── requirements.txt
 ├── consigna-pre-entrega6.md
-├── explicacion_general_modulo6.md
 ├── .gitignore
 └── README.md
 ```
